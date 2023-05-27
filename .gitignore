@@ -1,3 +1,7 @@
 prerevise
 __pychache__
 .DS_Store
+prerevise.db
+prerevise.sqlite
+
+.space
